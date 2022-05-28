@@ -1,1 +1,0 @@
- "Average math grade is ", (grade1 + grade2) / 2 )

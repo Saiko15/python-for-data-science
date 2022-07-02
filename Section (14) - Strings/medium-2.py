@@ -22,4 +22,4 @@ def compresse_str(stri):
 print('_'.join(compresse_str('aaabbbccc')))
 print(compresse_str('aabbbbbddddcccc'))
 print(compresse_str('z'))
-
+  

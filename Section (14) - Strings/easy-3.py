@@ -9,4 +9,4 @@ def split_string(str): #111222aabbb
         
     return new_str
 
-print(','.join(split_string("111222aabbb")))
+print(','.join(split_string("111222aabbb"))) 

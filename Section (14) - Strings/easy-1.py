@@ -7,6 +7,6 @@ def is_palindrome(str):  # madam
 print(is_palindrome("madam"))
 print(is_palindrome("11/11/11"))
 print(is_palindrome("12321"))
-print(is_palindrome("12341"))
+print(is_palindrome("12341")) 
 
 

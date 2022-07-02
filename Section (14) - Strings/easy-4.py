@@ -12,7 +12,7 @@ if len(T) > len(S):
     new_str += T[sz:]
 
 if len(S) > len(T):
-    new_str += T[sz:]
+    new_str += T[sz:] 
 
 
 print(new_str)

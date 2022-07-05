@@ -12,4 +12,4 @@ print()
 for char in line2:
     print(dct.setdefault(char, char), end='')
 
-print(dct)
+print(dct) 
